@@ -44,7 +44,9 @@ function sayHi() {
 }
 
 *!*
-alert( sayHi ); // shows the function code
+alert( sayHi ); /* shows the function code (function sayHi() {
+  alert( "Hello" );
+}) */
 */!*
 ```
 
